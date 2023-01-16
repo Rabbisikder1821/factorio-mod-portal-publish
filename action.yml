@@ -7,3 +7,7 @@ runs:
 branding:
   icon: 'settings'  
   color: 'purple'
+- name: Factorio Mod Portal API Publish
+  uses: Penguin-Spy/factorio-mod-portal-publish@1.0.5
+- name: Factorio Mod Portal API Publish
+  uses: Penguin-Spy/factorio-mod-portal-publish@1.0.5
